@@ -1,5 +1,5 @@
 /**
- * Calculate value of PI on single core
+ * Calculate Floating Point Work
  * Jon Durrant - 2024
  */
 

@@ -1,3 +1,6 @@
 [submodule "lib/pi_spigot"]
 	path = lib/pi_spigot
 	url = https://github.com/imahjoub/pi_spigot
+[submodule "lib/eigen"]
+	path = lib/eigen
+	url = https://gitlab.com/libeigen/eigen
