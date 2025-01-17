@@ -4,3 +4,6 @@
 [submodule "lib/eigen"]
 	path = lib/eigen
 	url = https://gitlab.com/libeigen/eigen
+[submodule "lib/RPIPicoOnboardNVS"]
+	path = lib/RPIPicoOnboardNVS
+	url = https://github.com/jondurrant/RPIPicoOnboardNVS
