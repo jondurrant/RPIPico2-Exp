@@ -53,6 +53,21 @@ A FreeRTOS Blink example to demonstrate FreeRTOS on the RP2350 and Pico 2. Will 
 
 This uses a shared copy of the Raspberry Pi fork for [FreeRTOS kernel](https://github.com/raspberrypi/FreeRTOS-Kernel) located through the environment variable: PICO_FREERTOS
 
+### SwitchPol
+
+Show how a GPIO line can be pulled and make a LED follow it
+
+### SwitchLatchPol
+
+Using a Polling pattern to implement a latched switch. So when you press the switch the LED will turn on. Pressing a second time will turn it off.
+
+### SwitchLatchInt
+
+Using an interrupt pattern to implement  a latched switch. So when you press the switch the LED will turn on. Pressing a second time will turn it off.
+
+### SwitchLatchAction
+
+Using an interrupt and polymorphic pattern to implement a latched switch.
  
  
  
